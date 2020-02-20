@@ -1,2 +1,2 @@
 # practice
-learning git
+learning git hub
